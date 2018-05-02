@@ -1,0 +1,21 @@
+OgrenciNo|Ad|Soyad|KayitSirasi|OgretimTuru
+1702271 Amelia Knox 366 II
+1702272 Yvonne McGrath 367 II
+1702273 Paul Short 368 II
+1702274 Deirdre Nolan 369 II
+1702275 Sophie Baker 370 II
+1702276 Trevor Turner 371 II
+1702277 Boris Campbell 372 II
+1702278 Neil Harris 373 II
+1702279 Sophie Black 374 II
+1702280 Anna Hunter 375 II
+1702281 Brian Ross 376 II
+1702282 Sam Hill 377 II
+1702283 Virginia Fisher 378 II
+1702284 Jane Pullman 379 II
+1702285 Jan Allan 380 II
+1702286 Harry Berry 381 II
+1702287 Richard Mitchell 382 II
+1702288 Simon Kelly 383 II
+1702289 Elizabeth Quinn 384 II
+1702290 Zoz Benic 385 II

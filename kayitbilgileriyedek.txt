@@ -1,0 +1,9 @@
+OgrenciNo	Ad	Soyad	KayitSirasi	OgretimTuru
+1602054 Recep Yahya 0 II
+1602028	Firat	Komurcu	7	II
+1602025 Cristi Rirtzman 0 II
+0 Virgie Thayer 1 I
+1602028 Mehmet Komurcu 0 II
+0 steve rogers 2 I
+0 bruce banner 4 II
+0 Recep Karaca 5 II

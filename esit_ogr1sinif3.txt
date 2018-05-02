@@ -1,0 +1,21 @@
+OgrenciNo|Ad|Soyad|KayitSirasi|OgretimTuru
+1701173 Emma Terry 172 I
+1701174 Neil Stewart 173 I
+1701175 Dorothy Oliver 174 I
+1701176 Alison Martin 175 I
+1701177 Eric Sanderson 176 I
+1701178 Felicity Clark 177 I
+1701179 Wendy Howard 178 I
+1701180 Anne Bond 179 I
+1701181 Olivia Bower 180 I
+1701182 Julian Mackenzie 181 I
+1701183 Ryan Paige 182 I
+1701184 Audrey Lawrence 183 I
+1701185 Jane Langdon 184 I
+1701186 Evan Lambert 185 I
+1701187 Heather Mackay 186 I
+1701188 Christian Graham 187 I
+1701189 Keith Watson 188 I
+1701190 Katherine Randall 189 I
+1701191 Thomas Oliver 190 I
+1701192 Ruth Newman 191 I

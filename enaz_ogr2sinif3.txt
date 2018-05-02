@@ -1,0 +1,4 @@
+OgrenciNo|Ad|Soyad|KayitSirasi|OgretimTuru
+1702288 Simon Kelly 383 II
+1702289 Elizabeth Quinn 384 II
+1702290 Zoz Benic 385 II
